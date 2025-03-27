@@ -17,4 +17,4 @@ class DocumentResponse(DocumentBase):
     timestamp: datetime
 
     class Config:
-        from_attributes = True  # Use this for Pydantic v2 instead of `orm_mode`
+        from_attributes = True 
