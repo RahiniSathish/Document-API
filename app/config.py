@@ -1,9 +1,9 @@
 import config
 
-print(config.DB_HOST)  # Output: localhost
-# MySQL Database Configuration
+print(config.DB_HOST)  
+
 DB_HOST = "localhost"
 DB_PORT = 3306
-DB_USER = "sathish"
-DB_PASSWORD = "Degreed12345"
+DB_USER = " "
+DB_PASSWORD = " "
 DB_NAME = "document_store"
